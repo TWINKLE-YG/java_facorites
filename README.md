@@ -9,6 +9,8 @@
 ## zookeeper
 ## kafka
 ## mysql
+* [MySQL 8.0 MVCC 核心源码解析](https://mp.weixin.qq.com/s/sUf43fvr3xDLzeh1KOSPaQ)
+
 ## redis
 ## RocketMQ
 ## ElasticSearch
