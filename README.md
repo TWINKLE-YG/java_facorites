@@ -1,8 +1,8 @@
 # 常用的收藏夹
 
 
-##android 
-##java基础
+## android 
+## java基础
 ## spring
 ## mybatis
 ## zookeeper
@@ -11,4 +11,4 @@
 ## redis
 ## RocketMQ
 ## ElasticSearch
-##分布式理论
+## 分布式理论
