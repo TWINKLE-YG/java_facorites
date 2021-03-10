@@ -8,7 +8,7 @@
 ## zookeeper
 ## kafka
 ## mysql
-##redis
-##RocketMQ
-##ElasticSearch
+## redis
+## RocketMQ
+## ElasticSearch
 ##分布式理论
